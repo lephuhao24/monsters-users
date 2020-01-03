@@ -1,0 +1,9 @@
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    h1 {
+        display: block;
+        width: 100%
+    }
+} 
